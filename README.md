@@ -102,6 +102,6 @@ You can find all the official portings and resources [here](https://github.com/m
 <p align="center">
   <img src="https://rawcdn.githack.com/material-theme/vsc-material-theme/790fc5d2872f10d5a903f449c90c1fa1502d7e53/logo.png" width="32" height="32"/>
   <br />
-  Copyright &copy; 2024 <br /> Mattia Astorino & Alessio Occhipinti
+  Copyright &copy; 2024 <br /> Mattia Astorino
 </p>
 
